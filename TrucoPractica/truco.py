@@ -41,5 +41,6 @@ def obtener_mazo_desde_db():
     return mazo
 
 entero="julieta"
+print (entero)
 
 ventana.mainloop()
